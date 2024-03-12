@@ -50,13 +50,13 @@ Need to build a regression model using regularisation in order to predict the ac
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Model Results
-* Ridge Regression: </br>
+Ridge Regression: </br>
 * R-squared 		 - Training Set: 0.940, Test Set: 0.918
 * RMSE				 - Training Set: 0.095, Test Set: 0.112	
 * No. of Features	 - 282
+
 </br>
-</br>
-* Lasso Regression: </br>
+Lasso Regression: </br>
 * R-squared 		 - Training Set: 0.924, Test Set: 0.919
 * RMSE				 - Training Set: 0.108, Test Set: 0.112	
 * No. of Features	 - 94
