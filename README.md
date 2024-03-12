@@ -55,7 +55,6 @@ Ridge Regression: </br>
 * RMSE				 - Training Set: 0.095, Test Set: 0.112	
 * No. of Features	 - 282
 
-</br>
 Lasso Regression: </br>
 * R-squared 		 - Training Set: 0.924, Test Set: 0.919
 * RMSE				 - Training Set: 0.108, Test Set: 0.112	
