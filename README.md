@@ -63,26 +63,16 @@ Lasso Regression: </br>
 ## Conclusion
 Significant variables in predicting the price of house from Lasso Model are:
 </br>
-GrLivArea - Above grade (ground) living area square feet
-</br>
-TotalBsmtSF - Total square feet of basement area
-</br>
-OverallQual_9 - Overall material and finish of the house is 'Excellent'
-</br>
-OverallQual_10 - Overall material and finish of the house is 'Very Excellent'
-</br>
-SaleType_New - Home just constructed and sold
-</br>
-Neighborhood_Crawfor - location near to Crawford
-</br>
-GarageCars - Size of garage in car capacity
-</br>
-BsmtFinSF1 - Size of the basement finished area in square feet 
-</br>
-OverallQual_8 - Overall material and finish of the house is 'Very Good'
-</br>
-GarageArea - Size of garage in square feet
-</br>
+* GrLivArea - Above grade (ground) living area square feet
+* TotalBsmtSF - Total square feet of basement area
+* OverallQual_9 - Overall material and finish of the house is 'Excellent'
+* OverallQual_10 - Overall material and finish of the house is 'Very Excellent'
+* SaleType_New - Home just constructed and sold
+* Neighborhood_Crawfor - location near to Crawford
+* GarageCars - Size of garage in car capacity
+* BsmtFinSF1 - Size of the basement finished area in square feet 
+* OverallQual_8 - Overall material and finish of the house is 'Very Good'
+* GarageArea - Size of garage in square feet
 
 
 ## Contact
